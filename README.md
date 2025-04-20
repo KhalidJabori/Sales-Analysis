@@ -1,5 +1,4 @@
 Analyse des données de ventes pour identifier les tendances, produits phares et performances horaires.
-Utilisation de Python (Pandas, Matplotlib) pour nettoyer les données et générer des visualisations clés.
 -------------------------------------------------------------------------------------------------------
 
 Ce projet d'analyse des ventes, réalisé entièrement en Python, a permis d'extraire des insights précieux à partir de données brutes de commandes. La première étape a consisté en une collecte minutieuse des données, suivie d'un processus de nettoyage rigoureux pour éliminer les valeurs manquantes, corriger les formats et uniformiser les données. Nous avons notamment converti les dates en format datetime, extrait les villes des adresses clientes et vérifié la cohérence des prix et quantités commandées.
